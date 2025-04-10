@@ -1,0 +1,2 @@
+git fetch gets the latest changes from GitHub but doesn’t apply them yet.
+git pull gets the changes and immediately updates your files with them.
